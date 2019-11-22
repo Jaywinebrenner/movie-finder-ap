@@ -1,0 +1,37 @@
+body {
+  background-color: #f6cd90;
+
+}
+.jumbotron{
+  background-color: #f58b54;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Monoton', cursive;
+  color: #f5f0e3;
+  font-size: 3rem;
+}
+
+span{
+  font-size: 1.5rem;
+}
+#inputWrapper{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+#showMoveDirectorWrapper{
+  text-align: center;
+    margin-bottom: 20px;
+}
+#gifToDisplay{
+  text-align: center;
+  display: block;
+  display: none;
+}
+
+img{
+  border-radius: 15%;
+}
